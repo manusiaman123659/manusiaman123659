@@ -1,75 +1,67 @@
-<!--
-  Profile repository: github.com/manusiaman123659/manusiaman123659
-  Personal identity: Lana_MA
-  Intent: quiet, editorial, readable; no third-party stats, fake counters, or animated badges.
--->
+<!-- Lana_MA / Personal GitHub profile | Field Notes, v2 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/cover-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/cover-light.svg">
-  <img src="./assets/cover-light.svg" alt="Lana_MA — web interfaces, thoughtful systems, useful work" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/field-notes-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/field-notes-light.svg">
+  <img src="./assets/field-notes-light.svg" alt="Lana_MA — interfaces, systems, and the details in between" width="100%">
 </picture>
 
 <br>
 
-<sub>01 / INTRODUCTION</sub>
+<sub>01 / A LITTLE CONTEXT</sub>
 
-## Hello, I'm Lana_MA.
+## Hi, I'm Lana_MA.
 
-I build web experiences and enjoy figuring out the systems behind them — from the smallest interface detail to content workflows, data, and deployment.
+I work with **web interfaces and the systems behind them**. I care about how something looks, but also how it behaves, how it is maintained, and whether it actually makes someone's work easier.
 
-My approach is simple: **clear structure, useful functionality, and considered design.**
+I prefer thoughtful details over unnecessary complexity — and learning by making real things.
 
-<sub>Indonesia · Web development · Learning by building</sub>
+<sub>Indonesia · Web development · Product-minded problem solving</sub>
 
 ---
 
 <sub>02 / SELECTED WORK</sub>
 
-### 01 — Autentik / AKA · Company website
+### 01 — Autentik / AKA <sub>· Professional work</sub>
 
-Web development work on a multilingual company website, including content management, interface refinement, and release workflows.
+A multilingual company website. My work involves interface refinement, content-management workflows, and the practical details of shipping and maintaining a web product.
 
-`Next.js` · `TypeScript` · `Supabase`
+`Next.js` `TypeScript` `Supabase` · [Visit website](https://autentik.co.id/)
 
-<sub>Professional work · [Public website](https://autentik.co.id/)</sub>
+### 02 — Personal portfolio <sub>· In progress</sub>
 
-### 02 — Personal portfolio · Work in progress
+Reworking my own portfolio around **Quiet Observations**: restrained typography, open space, and a visual identity that feels personal rather than templated.
 
-Developing a portfolio with a more distinctive visual language: restrained typography, considered spacing, and purposeful interactions.
+`UI design` `React` `Frontend engineering`
 
-`UI engineering` · `React` · `Design exploration`
+### 03 — EduQuest <sub>· Learning project</sub>
 
-### 03 — EduQuest · Learning project
+Exploring frontend–backend integration, data modeling, and application structure through a learning-focused web project.
 
-A web application project exploring frontend and backend development with structured data and application workflows.
-
-`React` · `TypeScript` · `Prisma` · `PostgreSQL`
-
-<!-- If any project should remain private or should not be publicly credited, edit or remove its entry before publishing. -->
+`React` `TypeScript` `Prisma` `PostgreSQL`
 
 ---
 
-<sub>03 / TOOLBOX</sub>
+<sub>03 / WORKING TOOLKIT</sub>
 
-| Area | Tools & technologies |
+| Area | What I work with |
 | :-- | :-- |
-| **Frontend** | `TypeScript` · `JavaScript` · `React` · `Next.js` · `Tailwind CSS` |
+| **Interfaces** | `TypeScript` · `JavaScript` · `React` · `Next.js` · `Tailwind CSS` |
 | **Backend & data** | `Node.js` · `Supabase` · `PostgreSQL` · `Prisma` |
-| **Workflow** | `Git` · `GitHub` · `Figma` · `Vercel` |
+| **Process & delivery** | `Git` · `GitHub` · `Figma` · `Vercel` |
 
 ---
 
-<sub>04 / CURRENT NOTES</sub>
+<sub>04 / ON MY DESK</sub>
 
-- Refining how I build and maintain web interfaces.
-- Exploring **RFID-based inventory counting** and how it may connect with enterprise systems.
-- Learning to make projects easier to understand, test, and maintain.
+- Refining web experiences: from layout and accessibility to CMS and authentication flows.
+- Studying **UHF RFID for warehouse stock-taking**, including stacked items and how scan results might eventually connect to an ERP.
+- Exploring how to keep codebases and interfaces understandable as projects grow.
 
 ---
 
-<sub>05 / SAY HELLO</sub>
+<sub>05 / ELSEWHERE</sub>
 
-[**GitHub profile**](https://github.com/manusiaman123659) · [**Repositories**](https://github.com/manusiaman123659?tab=repositories)
+[GitHub](https://github.com/manusiaman123659) · [Public repositories](https://github.com/manusiaman123659?tab=repositories)
 
-<sub>Carefully made, without animated banners, contribution counters, or third-party stat cards.</sub>
+<sub>Quiet work. Clear intent. Always iterating.</sub>
