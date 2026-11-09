@@ -16,18 +16,29 @@ STATUS   = Building & learning
 
 Building useful things and learning in public.
 
+## Why I maintain
+
+> Building useful things, learning through projects, and exploring practical software systems.
+
+**Open to:** thoughtful collaboration and useful open-source work.
+
+## Repositories I look after
+
+- [manusiaman123659](https://github.com/manusiaman123659/manusiaman123659) — GitHub profile README
+- [Browse all repositories](https://github.com/manusiaman123659?tab=repositories) — other public projects
+
+## Contribution log
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=manusiaman123659&theme=midnight" alt="GitSkins contribution activity" width="100%" />
+</p>
+
 ## Tools of the trade
 
 `manusiaman123659@github:~$ toolbox --list`
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=manusiaman123659&theme=midnight" alt="GitSkins Language Stack based on public repositories" width="100%" />
-</p>
-
-## Contribution log
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=manusiaman123659&theme=midnight" alt="GitSkins contribution activity" width="100%" />
 </p>
 
 ## Come contribute
