@@ -1,50 +1,48 @@
 ## Systems profile
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=manusiaman123659&amp;theme=forest&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153066231%3Fv%3D4" alt="Lana_MA · GitSkins profile hero" width="100%" />
+  <img src="https://www.gitskins.com/api/section/hero?username=manusiaman123659&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153066231%3Fv%3D4" alt="Lana_MA hero visual" />
 </p>
 
-**Lana_MA** · Web developer
-
-Building practical websites and exploring how software connects with real-world systems.
+**Lana_MA** · Product-minded developer
 
 ## Runtime notes
 
-```text
-NAME       = Lana_MA
-FOCUS      = Web development & systems
-STACK      = Next.js · React · TypeScript
-EXPLORING  = RFID & system integration
-```
+<pre><code>ROLE         = Product-minded developer
+LOCATION     = remote
+PUBLIC_REPOS = 1
+COMMUNITY    = 1 follower</code></pre>
+
+Building useful things and learning in public.
 
 ## Service toolkit
 
-**Frontend** · React, Next.js, TypeScript, Tailwind CSS  
-**Backend & data** · Supabase, API integration  
-**Currently exploring** · RFID for inventory workflows
+No public language data yet — building the first project in the open.
 
 ## System signals
 
 <table>
   <tr>
-    <td align="center"><b>WEB</b><br/><sub>Interfaces</sub></td>
-    <td align="center"><b>BUILD</b><br/><sub>Practical tools</sub></td>
-    <td align="center"><b>LEARN</b><br/><sub>Connected systems</sub></td>
+    <td align="center"><b>1</b><br/><sub>repos</sub></td>
+    <td align="center"><b>0</b><br/><sub>stars</sub></td>
+    <td align="center"><b>2</b><br/><sub>contributions</sub></td>
   </tr>
 </table>
 
 ## Reliable work
 
-- **Web platforms & CMS** — creating and maintaining usable web experiences.
-- **Personal portfolio** — experimenting with layout, typography, and interaction.
-- **RFID exploration** — learning inventory scanning before system integration.
+- [manusiaman123659](https://github.com/manusiaman123659/manusiaman123659) — open source · 0 stars
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=manusiaman123659&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153066231%3Fv%3D4" alt="Lana_MA contribution heatmap" />
+</p>
 
 ## Open a channel
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=manusiaman123659&amp;theme=forest&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153066231%3Fv%3D4" alt="Lana_MA · GitHub social card" width="100%" />
+  <img src="https://www.gitskins.com/api/section/social?username=manusiaman123659&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153066231%3Fv%3D4" alt="Lana_MA GitHub social visual" />
 </p>
 
-[GitHub](https://github.com/manusiaman123659)
+<a href="https://github.com/manusiaman123659">GitHub</a>
 
-<p align="center"><sub>Lana_MA · Based on the <a href="https://www.gitskins.com/readme-builder?username=manusiaman123659&amp;template=backend">GitSkins Backend</a> template</sub></p>
+<p align="center"><sub>Lana_MA · Backend profile generated with <a href="https://www.gitskins.com/readme-builder?username=manusiaman123659&amp;template=backend">GitSkins</a></sub></p>
