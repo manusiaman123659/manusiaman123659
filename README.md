@@ -1,67 +1,48 @@
-<!-- Lana_MA / Personal GitHub profile | Field Notes, v2 -->
+## Systems profile
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/field-notes-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/field-notes-light.svg">
-  <img src="./assets/field-notes-light.svg" alt="Lana_MA — interfaces, systems, and the details in between" width="100%">
-</picture>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=manusiaman123659&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153066231%3Fv%3D4" alt="Lana_MA hero visual" />
+</p>
 
-<br>
+**Lana_MA** · Product-minded developer
 
-<sub>01 / A LITTLE CONTEXT</sub>
+## Runtime notes
 
-## Hi, I'm Lana_MA.
+<pre><code>ROLE         = Product-minded developer
+LOCATION     = remote
+PUBLIC_REPOS = 1
+COMMUNITY    = 1 follower</code></pre>
 
-I work with **web interfaces and the systems behind them**. I care about how something looks, but also how it behaves, how it is maintained, and whether it actually makes someone's work easier.
+Building useful things and learning in public.
 
-I prefer thoughtful details over unnecessary complexity — and learning by making real things.
+## Service toolkit
 
-<sub>Indonesia · Web development · Product-minded problem solving</sub>
+No public language data yet — building the first project in the open.
 
----
+## System signals
 
-<sub>02 / SELECTED WORK</sub>
+<table>
+  <tr>
+    <td align="center"><b>1</b><br/><sub>repos</sub></td>
+    <td align="center"><b>0</b><br/><sub>stars</sub></td>
+    <td align="center"><b>2</b><br/><sub>contributions</sub></td>
+  </tr>
+</table>
 
-### 01 — Autentik / AKA <sub>· Professional work</sub>
+## Reliable work
 
-A multilingual company website. My work involves interface refinement, content-management workflows, and the practical details of shipping and maintaining a web product.
+- [manusiaman123659](https://github.com/manusiaman123659/manusiaman123659) — open source · 0 stars
 
-`Next.js` `TypeScript` `Supabase` · [Visit website](https://autentik.co.id/)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=manusiaman123659&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153066231%3Fv%3D4" alt="Lana_MA contribution heatmap" />
+</p>
 
-### 02 — Personal portfolio <sub>· In progress</sub>
+## Open a channel
 
-Reworking my own portfolio around **Quiet Observations**: restrained typography, open space, and a visual identity that feels personal rather than templated.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=manusiaman123659&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153066231%3Fv%3D4" alt="Lana_MA GitHub social visual" />
+</p>
 
-`UI design` `React` `Frontend engineering`
+<a href="https://github.com/manusiaman123659">GitHub</a>
 
-### 03 — EduQuest <sub>· Learning project</sub>
-
-Exploring frontend–backend integration, data modeling, and application structure through a learning-focused web project.
-
-`React` `TypeScript` `Prisma` `PostgreSQL`
-
----
-
-<sub>03 / WORKING TOOLKIT</sub>
-
-| Area | What I work with |
-| :-- | :-- |
-| **Interfaces** | `TypeScript` · `JavaScript` · `React` · `Next.js` · `Tailwind CSS` |
-| **Backend & data** | `Node.js` · `Supabase` · `PostgreSQL` · `Prisma` |
-| **Process & delivery** | `Git` · `GitHub` · `Figma` · `Vercel` |
-
----
-
-<sub>04 / ON MY DESK</sub>
-
-- Refining web experiences: from layout and accessibility to CMS and authentication flows.
-- Studying **UHF RFID for warehouse stock-taking**, including stacked items and how scan results might eventually connect to an ERP.
-- Exploring how to keep codebases and interfaces understandable as projects grow.
-
----
-
-<sub>05 / ELSEWHERE</sub>
-
-[GitHub](https://github.com/manusiaman123659) · [Public repositories](https://github.com/manusiaman123659?tab=repositories)
-
-<sub>Quiet work. Clear intent. Always iterating.</sub>
+<p align="center"><sub>Lana_MA · Backend profile generated with <a href="https://www.gitskins.com/readme-builder?username=manusiaman123659&amp;template=backend">GitSkins</a></sub></p>
