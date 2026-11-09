@@ -1,50 +1,45 @@
 ## Systems profile
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=manusiaman123659&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153066231%3Fv%3D4" alt="Lana_MA hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=manusiaman123659&theme=midnight" alt="GitSkins profile banner for @manusiaman123659" width="100%" />
 </p>
 
-**Lana_MA** · Product-minded developer
+**Lana_MA** · Developer
 
 ## Runtime notes
 
-<pre><code>ROLE         = Product-minded developer
-LOCATION     = remote
-PUBLIC_REPOS = 1
-COMMUNITY    = 1 follower</code></pre>
+```text
+USER     = Lana_MA
+GITHUB   = @manusiaman123659
+STATUS   = Building & learning
+```
 
 Building useful things and learning in public.
 
-## Service toolkit
+## Tools of the trade
 
-No public language data yet — building the first project in the open.
+`manusiaman123659@github:~$ toolbox --list`
 
-## System signals
-
-<table>
-  <tr>
-    <td align="center"><b>1</b><br/><sub>repos</sub></td>
-    <td align="center"><b>0</b><br/><sub>stars</sub></td>
-    <td align="center"><b>2</b><br/><sub>contributions</sub></td>
-  </tr>
-</table>
-
-## Reliable work
-
-- [manusiaman123659](https://github.com/manusiaman123659/manusiaman123659) — open source · 0 stars
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=manusiaman123659&theme=midnight" alt="GitSkins Language Stack based on public repositories" width="100%" />
+</p>
 
 ## Contribution log
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=manusiaman123659&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153066231%3Fv%3D4" alt="Lana_MA contribution heatmap" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=manusiaman123659&theme=midnight" alt="GitSkins contribution activity" width="100%" />
 </p>
 
-## Open a channel
+## Come contribute
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=manusiaman123659&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153066231%3Fv%3D4" alt="Lana_MA GitHub social visual" />
+  <a href="https://github.com/manusiaman123659">
+    <img src="https://www.gitskins.com/api/section/social?username=manusiaman123659&theme=midnight" alt="Find @manusiaman123659 on GitHub" width="100%" />
+  </a>
 </p>
 
-<a href="https://github.com/manusiaman123659">GitHub</a>
+[GitHub](https://github.com/manusiaman123659)
 
-<p align="center"><sub>Lana_MA · Backend profile generated with <a href="https://www.gitskins.com/readme-builder?username=manusiaman123659&amp;template=backend">GitSkins</a></sub></p>
+<p align="center">
+  <sub>Lana_MA · GitSkins <a href="https://www.gitskins.com/readme-builder?username=manusiaman123659&amp;template=backend">Backend template</a> · Midnight theme</sub>
+</p>
